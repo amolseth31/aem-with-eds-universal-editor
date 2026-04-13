@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p163269-e1756966.adobeaemcloud.com/bin/franklin.delivery/amolseth31/aem-with-eds-universal-editor/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://github.com/amolseth31/aem-with-eds-universal-editor
